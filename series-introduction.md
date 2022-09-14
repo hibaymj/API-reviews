@@ -19,6 +19,8 @@ Knowledge and affordance over data and documentation. Every time.
 The former offers orders of magnitude more value orders of magnitude faster. Before we define the terms, let's go through a quick scenario which will explain it intuitively.
 //include picture of pull door with push handle.
 
+
+### How do you open this door?
 ![This is a norman door](https://64.media.tumblr.com/2b9c5524e5369b57e9ccf46e2f843232/tumblr_pnjxu2j2on1u1kqn1_1280.jpg)
 
 I'm willing to wager we have all encountered this situation, even if it wasn't particularly noteworthy in your memory. Sometimes I'll be lost in thought walking somewhere. BAM. My forehead and foot are in pain, and I feel completely foolish. It was a push handle on a pull door. This is a painful lesson in affordances.

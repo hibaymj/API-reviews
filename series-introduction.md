@@ -27,7 +27,7 @@ There are many more wordy (and correct) definitions, but for simplicity we'll go
 
 Why stateful presentation? Let's get a bit more specific, there's two kinds of open affordances for a typical hinge door: push, and pull. The handle is presenting the push affordance that the state of the door doesn't support. It's a pull door. If you reconfigure the door to push, or change the handle then everything is fine. Affordances should be presented statefully, when they are available by a thing's internal state.
 
-Knowledge.
+# Knowledge.
 
 (GULP)
 
@@ -37,7 +37,7 @@ Why is this a problem? A priori knowledge.
 
 I like to throw some latin in my writing from time to time. It makes me feel fancy like my degree wasn't a complete waste. On the plus side it usually can communicate some big ideas in just a few words. Crudely put 'a priori' is understanding from knowledge _before_ an experience. We discussed a set of affordances 'Open', 'Open-Push', and 'Open-Pull'. This is a _finite_ set. Knowledge of my previous experience _granted_ me the understanding that the push handle granted the door the 'Open-Push' affordance. I knew this before I walked up to the door, and _applied_ my understanding to interpret the situation. Interacting with systems requires a _finite_ vocabulary of entities and affordances. In any given moment you're knowledge is finite. Your understanding of concepts, entities, and affordances are a _bounded vocabulary_. This vocabulary evolves and grows over time and this is akin to new versions of your vocabulary rather than an infinite dynamic set of ever changing words.
 
-Communication.
+# Communication.
 
 You can look at the way people and computers adapt to changing vocabulary as the same with two key differences: speed and cost. We all maintain our own vocabularies constantly in our mind. We don't need to pay anyone else to do it, and it happens almost instantaneously. Therefor we can heavily rely on ambiguity and our ability to adapt our vocabularies in the future as an efficient way to successfully communicate. Communication is fundamentally different for digital systems. Computers don't learn, unless you program them. They don't understand, so they can't infer. I'm going to ignore machine learning for now as it will just complicate the discussion without changing anything. If you want a computer to update it's vocabulary then you need a programmer to make updates in at least one program. There's wildly different programming cadences, but even assuming a relatively good turnaround time (in an enterprise environment) of two weeks between learning something new and updating the vocabulary, for the computer its been an eternity. CPU frequency varies a lot across servers and workloads from about 1.8 GHz to 5+ GHz. Let's assume it takes 10 cycles to 'think' from the computer's perspective, that means at 1.8 GHz the CPU is waiting 217,728,000,000,000 to 604,800,000,000,000 'thinking' cycles. That is a long time, and the change isn't even free. It costs a lot of money to pay a programmer. Probably the worst part is this is possibly the rosiest picture one could paint. In reality things would be far, far worse.
 

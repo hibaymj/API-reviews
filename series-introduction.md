@@ -45,7 +45,7 @@ You can look at the way people and computers adapt to changing vocabulary as the
 
 What we see is ambiguity, one of the cornerstones of human communication, is a fatal flaw in computer communication. This is an uncomfortable yet entirely unavoidable truth. The key to optimizing speed and costs in sociotechnical system communication is being very specific and precise about where you MUST be unambiguous while maximizing adaptability of the vocabulary for all parties both digital and biological.
 
-## Design and Comparative Measures
+## Design and Comparative Criteria
 
 ### What is objectively wrong?
 
@@ -57,4 +57,4 @@ Now that we understand what will cause us to conclude a design is objectively wr
 
 ### The Floor - Or Inherent Compromise
 
-Computer science is filled with tradeoffs. As developers we're familiar with many. In a lot of cases there aren't fundamental solutions to a design issue. Quite literally the laws of physics such as the speed of light and quantum mechanics impose invariable constraints on solution design. When faced with such a case API design should _sufficiently_ limit the _magnitude_ of the compromise so that it minimizes or removes the impact to the overall sociotechnical system. In other words, find a solution that is best for the system as a whole.
+Computer science is filled with tradeoffs. As developers we're familiar with many. In a lot of cases there aren't fundamental solutions to a design issue. Quite literally the laws of physics such as the speed of light and quantum mechanics impose invariable constraints on solution design. When faced with such a case API design should _sufficiently_ limit the _magnitude_ of the compromise so that it minimizes or removes the impact to the overall sociotechnical system. In other words, find a solution that is best for the system as a whole. We can clearly see that while 900,000,000 'thinking cycles' might be bad, its clearly better than 217,728,000,000,000.
